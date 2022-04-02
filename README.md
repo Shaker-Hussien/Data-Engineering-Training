@@ -1,7 +1,9 @@
 # Data Engineering Training
 
+Data Engineering Training for computer science students.
+
 <br><br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/README.md)
 
